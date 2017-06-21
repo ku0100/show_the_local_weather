@@ -1,7 +1,10 @@
 * {
-  background-color: rgb(98, 93, 93);
+  background-color: #1e1e1e;
+  color: rgb(255, 255, 255);
+  font-family: 'Josefin Slab', serif;
+  text-align: center;
 }
 
-h1 {
-  text-align: center;
+#weather {
+  color: #2C75FF;
 }
